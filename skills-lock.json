@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "fhir-developer-skill": {
+      "source": "anthropics/healthcare",
+      "sourceType": "github",
+      "skillPath": "plugins/healthcare/skills/fhir-developer/SKILL.md",
+      "computedHash": "6b53a78ec6be62023708e970d75fe0f5ca44aa13304d80c11445f1228c4390a2"
+    },
+    "flutter-add-widget-test": {
+      "source": "flutter/agent-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-add-widget-test/SKILL.md",
+      "computedHash": "f4ea905ae155d1bca76f5431bf6ed31f31e3d40146493e7ae4285eac39ba4ffd"
+    },
+    "flutter-apply-architecture-best-practices": {
+      "source": "flutter/agent-plugins",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-apply-architecture-best-practices/SKILL.md",
+      "computedHash": "baeb208b1cab90c559677626dbd101b96ba93f803cbed85122abdadeb3283a8b"
+    },
+    "flutter-expert": {
+      "source": "jeffallan/claude-skills",
+      "sourceType": "github",
+      "skillPath": "skills/flutter-expert/SKILL.md",
+      "computedHash": "16154f81b75f13d48c065bd000ddba572eadd7a9bf4c11b214bc8c136e0fdf76"
+    }
+  }
+}
