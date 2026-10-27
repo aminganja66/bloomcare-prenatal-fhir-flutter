@@ -1,4 +1,4 @@
-package com.bloomcare.bloomcare
+package com.bloomcare
 
 import io.flutter.embedding.android.FlutterActivity
 
